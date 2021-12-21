@@ -10,7 +10,7 @@ The page starts with a title, image, and description on "UFO Sightings: Fact or 
 
 ## Summary
 
-- One drawback of the webpage
+- One drawback of the webpage is that it's hard to know how much information is in the table. For example total sightings, type of shapes, locations. Right now it feels like trial and error to see where the sighting have been without scrolling throught the entire table.
 
-- Two additional recommendations for further development
+- My first recommendation is to update the filters to accept capitalization. When I filtered by state: nj, it didn't work when I used all caps: NJ, which can be confusing if that mistake isn't caught. Another recommendation is to add a summary table showing calculations such as - common shapes, locations, ect. It would give the user a nice overview and what to expect from filtering the data.
 
